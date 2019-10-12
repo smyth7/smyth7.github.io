@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting started with Reverie
-permalink: /getting-started/
+permalink: /reverie/
 ---
 
 These pages were build with the Jekyll template Reverie (https://jekyllthemes.io/theme/reverie). Here's how:
