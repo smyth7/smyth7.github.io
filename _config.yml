@@ -9,7 +9,7 @@ name: Paul Smyth
 author: 
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Data scientist at GSK, ex- theoretical physicist. All opinions are my own etc.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -96,4 +96,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
